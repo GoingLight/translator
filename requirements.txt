@@ -1,0 +1,8 @@
+transformers
+torch
+tensorflow
+sentencepiece
+accelerate
+tf-keras
+pydantic
+fastapi
